@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+# .streamlit/
+
+# FAISS index files
+# *.faiss
+
+# Data files
+
+# Logs
+*.log
+
+# API keys and secrets
+.env
+
+# Cached files
+.cache/
+
+# Temporary files
+tmp/
+temp/
+references/
+
+# Hugging Face cache
+.hf_cache/
+
+openai_api_key.txt
+
+.cursorignore
+
+archive/
+reference/
+
+processed/
+code/
+
+mediafiles/
+db.sqlite3
+
+generated_text_images/
+fonts/
